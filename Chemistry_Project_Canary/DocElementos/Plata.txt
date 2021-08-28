@@ -1,0 +1,6 @@
+﻿Símbolo Ag, número atómico 47 y masa atómica 107.870. Es un metal lustroso de color blanco-grisáceo. 
+Desde el punto de vista químico, es uno de los metales pesados y nobles; desde el punto de vista comercial, 
+es un metal precioso. Hay 25 isótopos de la plata. Sus masas atómicas fluctúan entre 102 y 117.
+
+La plata, que posee las más altas conductividades térmica y eléctrica de todos los metales, se utiliza
+en puntos de contacto eléctricos y electrónicos. También se emplea mucho en joyería y piezas diversas

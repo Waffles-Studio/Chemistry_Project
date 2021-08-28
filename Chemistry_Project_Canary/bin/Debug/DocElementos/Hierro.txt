@@ -1,0 +1,6 @@
+﻿El hierro es un elemento químico de aspecto metálico brillante con un tono grisáceo con número atómico 26.
+Su símbolo es Fe y pertenece al grupo de los metales de transición y su estado habitual en la naturaleza es sólido. 
+El hierro está situado en la posición 26 de la tabla periódica.
+
+Entre las características que tiene el hierro, así como las del resto de metales de tansición se encuentra la de 
+incluir en su configuración electrónica el orbital d,parcialmente lleno de electrones.

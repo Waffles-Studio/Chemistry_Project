@@ -1,0 +1,6 @@
+﻿Número atómico: 78; Valencia: 2,4; Estado de oxidación: +2; Electronegatividad: 2,2;
+Es un metal noble blanco, blando y dúctil. Los metales del grupo del platino ( platino, paladio, iridio, 
+rodio , osmio y rutenio) se encuentran ampliamente distribuidos sobre la tierra, pero su dilución extrema 
+imposibilita su recuperación, excepto en circunstancias especiales.
+Debido a su inercia química y a su alto punto de fusión se utiliza, aleado normalmente con algo de iridio, 
+en la construcción de aparatos de laboratorio como crisoles, platos de combustión, evaporadores, pinzas, etc.
